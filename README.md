@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational physics
 - 🌱 I’m currently learning coding and DFT techniques
 - 💞️ I’m looking to collaborate in research related to DFT applications in thermoelctricity
-- 📫 How to reach me kaysybabes@gmail.com
+- 📫 How to reach me kassimali05@gmail.com
 
 <!---
 maryooma05/maryooma05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
